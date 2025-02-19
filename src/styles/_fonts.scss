@@ -1,0 +1,14 @@
+@use "./mixins/font-face" as ff;
+
+
+@include ff.font-face("Roboto", "roboto/Roboto-Bold", 700);
+@include ff.font-face("Roboto", "roboto/Roboto-Regular", 400);
+@include ff.font-face("Light", "roboto/Roboto-Light", 300);
+
+
+// thin 100
+// light 300
+// regular 400
+// medium 500
+// bold 700
+// black 900
