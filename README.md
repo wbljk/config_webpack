@@ -5,7 +5,7 @@
 ### preparation
 ```sudo dnf install nodejs```
 ### clone repository
-```git clone https://github.com/blkvgnj/config_webpack```
+```git clone https://github.com/wblkj/config_webpack```
 ### initial: 
 ```npm i```
 ### run serve
