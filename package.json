@@ -14,24 +14,24 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@babel/core": "^7.27.1",
-    "@babel/preset-env": "^7.27.2",
-    "babel-loader": "^10.0.0",
-    "css-loader": "^7.1.2",
-    "css-minimizer-webpack-plugin": "^7.0.2",
-    "html-loader": "^5.1.0",
-    "html-webpack-plugin": "^5.6.3",
-    "image-webpack-loader": "^8.1.0",
-    "mini-css-extract-plugin": "^2.9.2",
-    "postcss": "^8.5.3",
-    "postcss-loader": "^8.1.1",
-    "postcss-preset-env": "^10.1.6",
-    "sass": "^1.88.0",
-    "sass-loader": "^16.0.5",
-    "style-loader": "^4.0.0",
-    "webpack": "^5.99.8",
-    "webpack-cli": "^6.0.1",
-    "webpack-dev-server": "^5.2.1"
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "babel-loader": "latest",
+    "css-loader": "latest",
+    "css-minimizer-webpack-plugin": "latest",
+    "html-loader": "latest",
+    "html-webpack-plugin": "latest",
+    "image-webpack-loader": "latest",
+    "mini-css-extract-plugin": "latest",
+    "postcss": "latest",
+    "postcss-loader": "latest",
+    "postcss-preset-env": "latest",
+    "sass": "latest",
+    "sass-loader": "latest",
+    "style-loader": "latest",
+    "webpack": "latest",
+    "webpack-cli": "latest",
+    "webpack-dev-server": "latest"
   },
   "browserslist": [
     "last 2 version",
@@ -39,7 +39,7 @@
     "not dead"
   ],
   "dependencies": {
-    "normalize.css": "^8.0.1",
-    "swiper": "^11.2.6"
+    "normalize.css": "latest",
+    "swiper": "latest"
   }
 }
